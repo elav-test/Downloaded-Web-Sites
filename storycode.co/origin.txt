@@ -1,0 +1,792 @@
+Uri: https://storycode.co/
+File Name: c:\Downloaded Web Sites\storycode.co\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/wp-content/themes/story-code/style-reset.css
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\style-reset.css
+Content Type: text/css
+
+Uri: https://storycode.co/wp-content/themes/story-code/style.css
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\style.css
+Content Type: text/css
+
+Uri: https://storycode.co/wp-content/themes/story-code/style-template-home.css
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\style-template-home.css
+Content Type: text/css
+
+Uri: https://storycode.co/wp-content/themes/story-code/style-mobile.css
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\style-mobile.css
+Content Type: text/css
+
+Uri: https://storycode.co/wp-content/themes/story-code/js/slick.css
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\js\slick.css
+Content Type: text/css
+
+Uri: https://storycode.co/wp-includes/css/dist/block-library/style.min.css?ver=5.2.3
+File Name: c:\Downloaded Web Sites\storycode.co\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://storycode.co/xmlrpc.php?rsd
+File Name: c:\Downloaded Web Sites\storycode.co\xmlrpc.xml
+Content Type: text/xml
+
+Uri: https://storycode.co/wp-includes/wlwmanifest.xml
+File Name: c:\Downloaded Web Sites\storycode.co\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://storycode.co/wp-content/uploads/2018/09/cropped-storycode-32x32.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2018\09\cropped-storycode-32x32.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2018/09/cropped-storycode-192x192.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2018\09\cropped-storycode-192x192.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2018/09/cropped-storycode-180x180.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2018\09\cropped-storycode-180x180.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/about/
+File Name: c:\Downloaded Web Sites\storycode.co\about\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/home-the-wonderful-wizard-of-oz/
+File Name: c:\Downloaded Web Sites\storycode.co\home-the-wonderful-wizard-of-oz\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/home-alice-in-wonderland/
+File Name: c:\Downloaded Web Sites\storycode.co\home-alice-in-wonderland\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/story/doctor-doctor-how-can-i-build-an-audience-for-my-brand/
+File Name: c:\Downloaded Web Sites\storycode.co\story\doctor-doctor-how-can-i-build-an-audience-for-my-brand\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/story/a-picture-editors-guide-to-finding-unique-photographs/
+File Name: c:\Downloaded Web Sites\storycode.co\story\a-picture-editors-guide-to-finding-unique-photographs\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/story/the-storytelling-tribe/
+File Name: c:\Downloaded Web Sites\storycode.co\story\the-storytelling-tribe\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/story/lead-with-a-story/
+File Name: c:\Downloaded Web Sites\storycode.co\story\lead-with-a-story\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/privacy-policy/
+File Name: c:\Downloaded Web Sites\storycode.co\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+File Name: c:\Downloaded Web Sites\storycode.co\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: https://storycode.co/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: c:\Downloaded Web Sites\storycode.co\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/logo-animated-story.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\logo-animated-story.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/logo-animated-code.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\logo-animated-code.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/logo-magazine-full-white.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\logo-magazine-full-white.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/sticky-story.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\sticky-story.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/sticky-code.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\sticky-code.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/close.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\close.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/uploads/2018/10/sam-gray-625x438.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2018\10\sam-gray-625x438.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2019/07/Shhh-625x399.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\07\Shhh-625x399.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2019/07/Agta_2045_0017-625x415.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\07\Agta_2045_0017-625x415.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2019/07/Old-Map-With-Sea-Monsters-1-625x422.jpeg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\07\Old-Map-With-Sea-Monsters-1-625x422.jpeg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/service-icon-01.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\service-icon-01.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/service-icon-03.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\service-icon-03.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/service-icon-02.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\service-icon-02.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/service-icon-04.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\service-icon-04.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/logo-magazine.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\logo-magazine.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/js/slick.min.js
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://storycode.co/wp-content/themes/story-code/js/jquery.vide.js
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\js\jquery.vide.js
+Content Type: application/javascript
+
+Uri: https://storycode.co/wp-content/themes/story-code/js/jquery.waypoints.min.js
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://storycode.co/wp-content/themes/story-code/js/jquery.waypoints.inview.js
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\js\jquery.waypoints.inview.js
+Content Type: application/javascript
+
+Uri: https://storycode.co/wp-content/themes/story-code/js/lettering.js
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\js\lettering.js
+Content Type: application/javascript
+
+Uri: https://storycode.co/wp-content/themes/story-code/js/jquery.textillate.js
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\js\jquery.textillate.js
+Content Type: application/javascript
+
+Uri: https://storycode.co/wp-content/themes/story-code/js/jquery.cycle2.min.js
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\js\jquery.cycle2.min.js
+Content Type: application/javascript
+
+Uri: https://storycode.co/wp-content/themes/story-code/js/jquery.cycle2.swipe.min.js
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\js\jquery.cycle2.swipe.min.js
+Content Type: application/javascript
+
+Uri: https://storycode.co/wp-content/themes/story-code/js/jquery.sticky-kit.min.js
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\js\jquery.sticky-kit.min.js
+Content Type: application/javascript
+
+Uri: https://storycode.co/wp-content/themes/story-code/js/parallax.min.js
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\js\parallax.min.js
+Content Type: application/javascript
+
+Uri: https://storycode.co/wp-content/themes/story-code/js/detect-private-browsing.js
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\js\detect-private-browsing.js
+Content Type: application/javascript
+
+Uri: https://storycode.co/wp-content/themes/story-code/js/jquery.validate.min.js
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://storycode.co/wp-content/themes/story-code/js/scripts.js
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/CalibreLight.eot
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\CalibreLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/CalibreLight.woff2
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\CalibreLight.woff2
+Content Type: font/woff2
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/CalibreLight.woff
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\CalibreLight.woff
+Content Type: font/woff
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/CalibreLight.ttf
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\CalibreLight.ttf
+Content Type: font/ttf
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/CalibreLight.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\CalibreLight.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/CalibreRegular.eot
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\CalibreRegular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/CalibreRegular.woff2
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\CalibreRegular.woff2
+Content Type: font/woff2
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/CalibreRegular.woff
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\CalibreRegular.woff
+Content Type: font/woff
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/CalibreRegular.ttf
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\CalibreRegular.ttf
+Content Type: font/ttf
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/CalibreRegular.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\CalibreRegular.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/CalibreRegularItalic.eot
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\CalibreRegularItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/CalibreRegularItalic.woff2
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\CalibreRegularItalic.woff2
+Content Type: font/woff2
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/CalibreRegularItalic.woff
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\CalibreRegularItalic.woff
+Content Type: font/woff
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/CalibreRegularItalic.ttf
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\CalibreRegularItalic.ttf
+Content Type: font/ttf
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/CalibreRegularItalic.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\CalibreRegularItalic.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/SchnyderLDemi.eot
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\SchnyderLDemi.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/SchnyderLDemi.woff2
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\SchnyderLDemi.woff2
+Content Type: font/woff2
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/SchnyderLDemi.woff
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\SchnyderLDemi.woff
+Content Type: font/woff
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/SchnyderLDemi.ttf
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\SchnyderLDemi.ttf
+Content Type: font/ttf
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/SchnyderLDemi.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\SchnyderLDemi.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/SchnyderLLight.eot
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\SchnyderLLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/SchnyderLLight.woff2
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\SchnyderLLight.woff2
+Content Type: font/woff2
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/SchnyderLLight.woff
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\SchnyderLLight.woff
+Content Type: font/woff
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/SchnyderLLight.ttf
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\SchnyderLLight.ttf
+Content Type: font/ttf
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/SchnyderLLight.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\SchnyderLLight.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/SchnyderLLightItalic.eot
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\SchnyderLLightItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/SchnyderLLightItalic.woff2
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\SchnyderLLightItalic.woff2
+Content Type: font/woff2
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/SchnyderLLightItalic.woff
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\SchnyderLLightItalic.woff
+Content Type: font/woff
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/SchnyderLLightItalic.ttf
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\SchnyderLLightItalic.ttf
+Content Type: font/ttf
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/SchnyderLLightItalic.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\SchnyderLLightItalic.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/cursor-moby.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\cursor-moby.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/cursor-oz.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\cursor-oz.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/cursor-alice.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\cursor-alice.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/waves-boat.png
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\waves-boat.png
+Content Type: image/png
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/ocean.png
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\ocean.png
+Content Type: image/png
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/arrow-right.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/arrow-left.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/submit.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\submit.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/arrow-submit.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\arrow-submit.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/arrow-prev.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\arrow-prev.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/arrow-next.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\arrow-next.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/close-black.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\close-black.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/arrow-down.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\arrow-down.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/video/ocean.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\video\ocean.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/themes/story-code/video/bunny.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\video\bunny.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/themes/story-code/video/oz.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\video\oz.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/the-magazine/
+File Name: c:\Downloaded Web Sites\storycode.co\the-magazine\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/wp-content/themes/story-code/style-template-about.css
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\style-template-about.css
+Content Type: text/css
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/service-icon-05.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\service-icon-05.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/uploads/2019/06/laura.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\06\laura.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2019/06/lotte.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\06\lotte.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2019/07/caroline.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\07\caroline.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2019/07/Brendan.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\07\Brendan.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/themes/story-code/style-oz.css
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\style-oz.css
+Content Type: text/css
+
+Uri: https://storycode.co/wp-content/themes/story-code/style-mobile.css?v=1.1
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\style-mobile-1.css
+Content Type: text/css
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/clouds.png
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\clouds.png
+Content Type: image/png
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/text-marketers.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\text-marketers.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/bird-1.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\bird-1.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/bird-5.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\bird-5.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/bird-2.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\bird-2.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/bird-3.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\bird-3.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/bird-4.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\bird-4.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/legs.png
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\legs.png
+Content Type: image/png
+
+Uri: https://storycode.co/wp-content/uploads/2018/10/sam-gray-800x530.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2018\10\sam-gray-800x530.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2019/07/Agta_2045_0017-800x530.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\07\Agta_2045_0017-800x530.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2019/07/Shhh-800x530.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\07\Shhh-800x530.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/balloon.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\balloon.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/logo-animated-story-oz.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\logo-animated-story-oz.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/logo-animated-code-oz.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\logo-animated-code-oz.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/home-moby-dick/
+File Name: c:\Downloaded Web Sites\storycode.co\home-moby-dick\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/wp-content/themes/story-code/style-alice.css
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\style-alice.css
+Content Type: text/css
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/cat.png
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\cat.png
+Content Type: image/png
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/suit-club.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\suit-club.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/suit-diamond.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\suit-diamond.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/suit-heart.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\suit-heart.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/suit-spade.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\suit-spade.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/logo-animated-story-white.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\logo-animated-story-white.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/logo-animated-code-white.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\logo-animated-code-white.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/uploads/2018/10/sam-gray-2800x1600.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2018\10\sam-gray-2800x1600.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/author/annie/
+File Name: c:\Downloaded Web Sites\storycode.co\author\annie\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/wp-content/uploads/2018/10/doctor-2880x1200.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2018\10\doctor-2880x1200.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2019/06/Sam-Bunting.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\06\Sam-Bunting.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2019/07/Old-Map-With-Sea-Monsters-1-800x540.jpeg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\07\Old-Map-With-Sea-Monsters-1-800x540.jpeg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2019/07/Shhh-800x511.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\07\Shhh-800x511.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2019/07/Agta_2045_0017-800x532.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\07\Agta_2045_0017-800x532.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/category/strategy/
+File Name: c:\Downloaded Web Sites\storycode.co\category\strategy\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/tag/positioning/
+File Name: c:\Downloaded Web Sites\storycode.co\tag\positioning\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/tag/social-media/
+File Name: c:\Downloaded Web Sites\storycode.co\tag\social-media\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/wp-content/uploads/2019/07/Shhh-2800x1600.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\07\Shhh-2800x1600.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/author/lotte-roberts/
+File Name: c:\Downloaded Web Sites\storycode.co\author\lotte-roberts\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/wp-content/uploads/2019/08/men-1979261_1920-1-1920x1140.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\08\men-1979261_1920-1-1920x1140.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2019/08/adults-blur-business-people-1811991-2-1920x1140.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\08\adults-blur-business-people-1811991-2-1920x1140.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2019/08/adults-collaborate-collaboration-1036641-1-1920x1140.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\08\adults-collaborate-collaboration-1036641-1-1920x1140.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2019/07/First-Selfie-1250x1641.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\07\First-Selfie-1250x1641.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2019/07/Vision-of-Amazon-Delivery-1-1920x1140.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\07\Vision-of-Amazon-Delivery-1-1920x1140.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2019/07/Fake-News-1920x1140.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\07\Fake-News-1920x1140.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2019/07/18th-century-Costa-1920x1140.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\07\18th-century-Costa-1920x1140.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2018/10/sam-gray-800x561.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2018\10\sam-gray-800x561.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/category/creativity/
+File Name: c:\Downloaded Web Sites\storycode.co\category\creativity\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/tag/photography/
+File Name: c:\Downloaded Web Sites\storycode.co\tag\photography\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/tag/visual-content/
+File Name: c:\Downloaded Web Sites\storycode.co\tag\visual-content\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/wp-content/uploads/2019/07/Agta_2045_0017-2800x1600.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\07\Agta_2045_0017-2800x1600.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/author/laura/
+File Name: c:\Downloaded Web Sites\storycode.co\author\laura\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/wp-content/uploads/2019/07/Isabela_1627_6462-1250x1875.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\07\Isabela_1627_6462-1250x1875.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2019/08/Agta_3464_0939-4-1920x1140.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\08\Agta_3464_0939-4-1920x1140.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2019/08/SunAndMoon_Paulo-3-1920x1140.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\08\SunAndMoon_Paulo-3-1920x1140.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2019/08/TheStoryteller_Paulo-2-1920x1140.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\08\TheStoryteller_Paulo-2-1920x1140.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/category/integrity/
+File Name: c:\Downloaded Web Sites\storycode.co\category\integrity\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/tag/leadership/
+File Name: c:\Downloaded Web Sites\storycode.co\tag\leadership\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/tag/teamwork/
+File Name: c:\Downloaded Web Sites\storycode.co\tag\teamwork\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/tag/values/
+File Name: c:\Downloaded Web Sites\storycode.co\tag\values\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/wp-content/uploads/2019/07/Old-Map-With-Sea-Monsters-1-2800x1600.jpeg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\07\Old-Map-With-Sea-Monsters-1-2800x1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/uploads/2019/08/annie-spratt-756829-unsplash-copy-2880x1200.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\08\annie-spratt-756829-unsplash-copy-2880x1200.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/tag/change/
+File Name: c:\Downloaded Web Sites\storycode.co\tag\change\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/tag/influence/
+File Name: c:\Downloaded Web Sites\storycode.co\tag\influence\index.htm
+Content Type: text/html
+
+Uri: https://storycode.co/wp-content/uploads/2019/07/Agta_2045_0017-1700x960.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\uploads\2019\07\Agta_2045_0017-1700x960.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/icon-arrows.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\icon-arrows.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/josefinsans-bold-webfont.woff2
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\josefinsans-bold-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/josefinsans-bold-webfont.woff
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\josefinsans-bold-webfont.woff
+Content Type: font/woff
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/josefinsans-semibold-webfont.woff2
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\josefinsans-semibold-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/josefinsans-semibold-webfont.woff
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\josefinsans-semibold-webfont.woff
+Content Type: font/woff
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/windsor_lt_bt_light-webfont.woff2
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\windsor_lt_bt_light-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://storycode.co/wp-content/themes/story-code/webfonts/windsor_lt_bt_light-webfont.woff
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\webfonts\windsor_lt_bt_light-webfont.woff
+Content Type: font/woff
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/sky.jpg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\sky.jpg
+Content Type: image/jpeg
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/bricks.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\bricks.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/arrow-submit-oz.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\arrow-submit-oz.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/moby.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\moby.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/fade-alice.png
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\fade-alice.png
+Content Type: image/png
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/alice.png
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\alice.png
+Content Type: image/png
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/grass.png
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\grass.png
+Content Type: image/png
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/blade.png
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\blade.png
+Content Type: image/png
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/swipe.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\swipe.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/wp-content/themes/story-code/img/arrow-submit-alice.svg
+File Name: c:\Downloaded Web Sites\storycode.co\wp-content\themes\story-code\img\arrow-submit-alice.svg
+Content Type: image/svg+xml
+
+Uri: https://storycode.co/author/annie/feed/
+File Name: c:\Downloaded Web Sites\storycode.co\author\annie\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://storycode.co/category/strategy/feed/
+File Name: c:\Downloaded Web Sites\storycode.co\category\strategy\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://storycode.co/tag/positioning/feed/
+File Name: c:\Downloaded Web Sites\storycode.co\tag\positioning\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://storycode.co/tag/social-media/feed/
+File Name: c:\Downloaded Web Sites\storycode.co\tag\social-media\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://storycode.co/author/lotte-roberts/feed/
+File Name: c:\Downloaded Web Sites\storycode.co\author\lotte-roberts\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://storycode.co/category/creativity/feed/
+File Name: c:\Downloaded Web Sites\storycode.co\category\creativity\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://storycode.co/tag/photography/feed/
+File Name: c:\Downloaded Web Sites\storycode.co\tag\photography\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://storycode.co/tag/visual-content/feed/
+File Name: c:\Downloaded Web Sites\storycode.co\tag\visual-content\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://storycode.co/author/laura/feed/
+File Name: c:\Downloaded Web Sites\storycode.co\author\laura\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://storycode.co/category/integrity/feed/
+File Name: c:\Downloaded Web Sites\storycode.co\category\integrity\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://storycode.co/tag/leadership/feed/
+File Name: c:\Downloaded Web Sites\storycode.co\tag\leadership\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://storycode.co/tag/teamwork/feed/
+File Name: c:\Downloaded Web Sites\storycode.co\tag\teamwork\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://storycode.co/tag/values/feed/
+File Name: c:\Downloaded Web Sites\storycode.co\tag\values\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://storycode.co/tag/change/feed/
+File Name: c:\Downloaded Web Sites\storycode.co\tag\change\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://storycode.co/tag/influence/feed/
+File Name: c:\Downloaded Web Sites\storycode.co\tag\influence\feed\index.rss
+Content Type: application/rss+xml
+

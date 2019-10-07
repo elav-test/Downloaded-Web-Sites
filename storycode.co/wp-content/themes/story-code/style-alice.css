@@ -1,0 +1,296 @@
+/*
+
+ALICE IN WONDERLAND
+
+Typekit:
+Bookmania-Regular
+
+*/
+
+.bookmania {
+	font-family:"bookmania", serif;
+	font-weight:normal;
+	font-style:normal;
+}
+
+body.world-alice {
+	font-family:"bookmania", serif;
+	font-weight:normal;
+	color:#254C4C;	
+}
+body.world-alice h1,
+body.world-alice h2,
+body.world-alice h3 {
+	font-family:"bookmania", serif;
+	font-weight:normal;
+}
+body.world-alice a.button,
+body.world-alice input[type='submit'].button,
+body.world-alice p.button a {
+	padding-top:5px;
+	color:#D70A20!important;
+	font-family:"bookmania", serif!important;
+	font-weight:normal!important;
+	font-size:16px;
+}
+body.world-alice a.button:hover,
+body.world-alice input[type='submit'].button:hover,
+body.world-alice p.button a:hover,
+body.world-alice a.button.inverse,
+body.world-alice input[type='submit'].button.inverse,
+body.world-alice p.button a.inverse {
+	color:#ffffff!important;
+	background:#D70A20;
+	border:1px solid #D70A20;
+}
+body.world-alice a.button.inverse:hover,
+body.world-alice input[type='submit'].button.inverse:hover,
+body.world-alice p.button a.inverse:hover {
+	color:#D70A20!important;
+	background:#ffffff!important;
+	border:1px solid #D70A20;
+}
+
+/* nav */
+/*body.world-alice #nav,
+body.world-alice #nav a {
+	cursor:url(img/cursor-alice.svg) 0 34, auto;
+}
+body.world-alice #nav {
+	background:#94CACA;
+}
+body.world-alice #nav .worlds li.alice a .fill { fill:#D70A20; }
+body.world-alice #nav .worlds li.moby a:hover .fill { fill:#D70A20; }
+body.world-alice #nav .worlds li.oz a:hover .fill { fill:#D70A20; }
+body.world-alice #nav .worlds li.oz a:hover .stroke { stroke:#D70A20; }
+body.world-alice #nav .nav li a:hover {
+	color:#D70A20;
+}
+body.world-alice #nav .nav li a {
+	font-size:62px;
+	letter-spacing:0.05em;
+}*/
+
+/* content */
+body.world-alice #video {
+	background:#153738;	
+}
+body.world-alice #intro .fadeout {
+	background:-moz-linear-gradient(top, rgba(21,55,56,0) 0%, rgba(21,55,56,1) 80%);
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(107,156,201,0)), color-stop(80%,rgba(21,55,56,1)));
+	background:-webkit-linear-gradient(top, rgba(21,55,56,0) 0%,rgba(21,55,56,1) 80%);
+	background:-o-linear-gradient(top, rgba(21,55,56,0) 0%,rgba(21,55,56,1) 80%);
+	background:-ms-linear-gradient(top, rgba(21,55,56,0) 0%,rgba(21,55,56,1) 80%);
+	background:linear-gradient(to bottom, rgba(21,55,56,0) 0%,rgba(21,55,56,1) 80%);
+	filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00153738', endColorstr='#153738',GradientType=0 );
+}
+body.world-alice #intro .fadeout {
+	background:url(img/fade-alice.png) bottom left repeat-x;
+	background-size:auto 100%;
+}
+body.world-alice #main {
+	padding:0;
+	background:#102B2B url(img/alice.png) center top no-repeat;
+	background-size:100% 100%;	
+}
+body.world-alice #main .callout {
+	padding-top:250px;	
+}
+body.world-alice #main .callout .inner {
+    font-size:43px;
+    font-style:normal;
+	color:#94CACA;
+}
+body.world-alice #main .callout .inner span {
+	display:block;
+	font-size:75px;
+	letter-spacing:0.05em;
+}
+body.world-alice #main .cat {
+	padding:450px 0;
+	position:relative;
+	overflow:hidden;
+}
+body.world-alice #main .cat .inner {
+	max-width:720px;
+	margin:0 auto;
+	font-size:46px;	
+	line-height:1.5;
+}
+body.world-alice #main .cat img {
+	display:block;
+	width:489px;
+	height:242px;
+	position:absolute;
+	bottom:0;
+	right:20%;
+	opacity:0;
+	-webkit-transition:all 3s ease-in-out;
+       -moz-transition:all 3s ease-in-out;
+	     -o-transition:all 3s ease-in-out;
+	        transition:all 3s ease-in-out;
+}
+body.world-alice #main .cat img.visible {
+	opacity:1;
+}
+body.world-alice #services .tabnav .link {
+    font-size:44px;
+    font-style:normal;
+}
+body.world-alice #services .tabnav .link.active {
+    color:#D70A20;
+}
+body.world-alice #bottom .grass {
+	width:100%;
+	height:220px;
+	position:relative;
+	background:#ffffff;
+	overflow:hidden;
+}
+body.world-alice #bottom .grass .bg {
+	width:100%;
+	height:144px;
+	background:url(img/grass.png) center bottom repeat-x;
+	position:absolute;
+	bottom:0;
+	left:0;
+	z-index:2;
+}
+body.world-alice #bottom .grass .inner {
+	width:590px;
+	height:120px;
+	position:absolute;
+	top:0;
+	right:0;
+	z-index:1;
+	-webkit-transition:right 100ms linear;
+       -moz-transition:right 100ms linear;
+	     -o-transition:right 100ms linear;
+	        transition:right 100ms linear;
+}
+@-webkit-keyframes blade {
+    0% { transform:translateY(0); }
+	50% { transform:translateY(20px); }
+    100% { transform:translateY(0); }
+}
+@keyframes blade {
+    0% { transform:translateY(0); }
+	50% { transform:translateY(20px); }
+    100% { transform:translateY(0); }
+}
+@-webkit-keyframes blade_alt {
+    0% { transform:translateY(0); }
+	50% { transform:translateY(-20px); }
+    100% { transform:translateY(0); }
+}
+@keyframes blade_alt {
+    0% { transform:translateY(0); }
+	50% { transform:translateY(-20px); }
+    100% { transform:translateY(0); }
+}
+body.world-alice #bottom .grass .inner .blade {
+	display:inline-block;
+	width:8px;
+	height:103px;
+	margin-right:40px;
+	position:relative;
+	background:url(img/blade.png);
+	-webkit-animation:blade 800ms infinite ease-in-out;
+		    animation:blade 800ms infinite ease-in-out;
+}
+body.world-alice #bottom .grass .inner .blade:last-child {
+	margin-right:0;	
+}
+body.world-alice #bottom .grass .inner .blade.alt {
+	top:20px;	
+	-webkit-animation:blade_alt 800ms infinite ease-in-out;
+		    animation:blade_alt 800ms infinite ease-in-out;
+}
+body.world-alice #bottom .lower {
+	background-color:#94CACA;
+	background-image:url(img/swipe.svg);
+	background-position:800px bottom;
+	background-repeat:no-repeat;
+	background-size:4258px 700px;
+    -webkit-transition:background-position 1.5s ease-in-out;  
+       -moz-transition:background-position 1.5s ease-in-out; 
+         -o-transition:background-position 1.5s ease-in-out;  
+            transition:background-position 1.5s ease-in-out; 
+}
+body.world-alice #bottom .lower.swiped {
+	background-position:center bottom;
+}
+body.world-alice #bottom .magazine {
+	color:#254C4C;
+	position:relative; /* for parallax suits */
+}
+body.world-alice #bottom .magazine p {
+	font-size:48px;
+	letter-spacing:0.02em;
+}
+body.world-alice #bottom .magazine .item .title a {
+	color:#254C4C;
+}
+body.world-alice #parallax-suits-0, 
+body.world-alice #parallax-suits-1, 
+body.world-alice #parallax-suits-2, 
+body.world-alice #parallax-suits-3 {
+	width:100%;
+	height:100%;
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:5;
+	pointer-events:none;
+}
+body.world-alice #parallax-suits-1 { z-index:6; }
+body.world-alice #parallax-suits-2 { z-index:7; }
+body.world-alice #parallax-suits-3 { z-index:8; }
+body.world-alice #parallax-suits-0,
+body.world-alice #parallax-suits-1,
+body.world-alice #parallax-suits-2,
+body.world-alice #parallax-suits-3 {
+	z-index:10;	
+}
+body.world-alice #bottom .lower .suit {
+	position:absolute;
+}
+body.world-alice #bottom .lower .suit.suit-1 { width:30px; height:35px; left:24%; top:80%; }
+body.world-alice #bottom .lower .suit.suit-2 { width:31px; height:30px; left:11%; top:76%; }
+body.world-alice #bottom .lower .suit.suit-3 { width:33px; height:40px; right:18%; top:64%; }
+body.world-alice #bottom .lower .suit.suit-4 { width:32px; height:38px; left:19%; top:53%; }
+body.world-alice #bottom .lower .suit.suit-5 { width:33px; height:40px; left:54%; top:90%; }
+body.world-alice #bottom .lower .suit.suit-6 { width:32px; height:38px; right:2%; top:80%; }
+body.world-alice #bottom .lower .suit.suit-7 { width:30px; height:35px; left:10%; top:95%; }
+body.world-alice #bottom .lower .suit.suit-8 { width:31px; height:30px; right:30%; top:90%; }
+body.world-alice #bottom .workshop {
+	padding:150px 0 100px;
+    margin-top:200px;
+	font-size:36px;
+	letter-spacing:0.05em;
+}   	
+body.world-alice .footer .subscribe .heading {
+	font-style:normal;	
+}
+body.world-alice .footer .subscribe .title {
+	font-weight:normal;	
+}
+body.world-alice .footer .subscribe .formwrap input[type='submit'] {
+	background-image:url(img/arrow-submit-alice.svg);
+}
+
+/* pages */
+body.world-alice #page {
+	background:#102B2B url(img/alice.png) center top no-repeat;
+    background-size:100% 100%;
+}
+body.world-alice #page .footer {
+	background:#94CACA;
+}
+body.world-alice #page em,
+body.world-alice #page i {
+	font-style:normal;	
+}
+body.world-alice #page .bio {
+	background:#D70A20;	
+}
